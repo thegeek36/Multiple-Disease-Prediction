@@ -227,6 +227,6 @@ if (selected == 'About'):
     - To make our project accessible and user-friendly, we deployed it using Streamlit, an open-source app framework used for building web applications. This deployment enables individuals to use our system with ease and access the predictions on the go.
     - In conclusion, our project is an innovative machine learning-based system designed to predict multiple diseases with high accuracy using various algorithms. With its deployment on Streamlit, individuals can access the system easily and use it to predict diseases, which can help them take necessary precautions and reduce the risks of contracting such diseases.
       """)
-st.write("<h5 style='color: pink;font-family: Arial;'>Developed By HariShankar, Pratik and Thayaswer </h5>", unsafe_allow_html=True)
+st.write("<h5 style='color: pink;font-family: Arial;'>Developed By Harishankar, Pratik and Thayaswer </h5>", unsafe_allow_html=True)
   
     
